@@ -11,4 +11,10 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
+    build: {
+    rollupOptions: {
+      external: ['@heroicons/react/24/solid']
+    }
+  }
 })
+// vite.config.js
