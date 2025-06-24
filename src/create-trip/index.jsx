@@ -4,7 +4,7 @@ import { SelectBudgetOptions } from '../constants/options.jsx';
 <<<<<<< HEAD
 import  Button  from '../components/ui/button.jsx';
 =======
-import { Button } from '../components/ui/button.jsx';
+import  Button  from '../components/ui/button.jsx';
 >>>>>>> 8f2d85f61be91e5af86ad8db958b0346a7e3629f
 import { SelectTravelersList } from '../constants/options.jsx';
 import { AI_PROMPT } from '../constants/options.jsx';
