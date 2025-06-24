@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Input } from '../components/ui/input.jsx';
 import { SelectBudgetOptions } from '../constants/options.jsx';
 
-import  Button  from '../components/ui/button.jsx';
+import { Button  }from '../components/ui/button.jsx';
 
 import { SelectTravelersList } from '../constants/options.jsx';
 import { AI_PROMPT } from '../constants/options.jsx';
