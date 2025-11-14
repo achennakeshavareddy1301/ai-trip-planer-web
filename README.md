@@ -1,4 +1,4 @@
-# AiGo – AI Trip Planner
+# AiGo – AI Trip Plannerr
 
 AiGo is an AI-powered travel planner that generates personalized itineraries based on your preferences, budget, and group size. Built with React, Vite, Firebase, and Google APIs, AiGo helps you discover destinations, plan daily activities, and manage your trips with ease.
 
