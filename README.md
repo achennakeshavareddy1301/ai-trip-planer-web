@@ -20,6 +20,7 @@ AiGo is an AI-powered travel planner that generates personalized itineraries bas
 ![Screenshot_24-6-2025_174858_localhost](https://github.com/user-attachments/assets/3a78fd73-5d5c-4db2-81dc-c8ec7c9b42b9)
 ![Screenshot 2025-06-24 175037](https://github.com/user-attachments/assets/80395a69-46eb-4a1c-8427-6ac51b7f0e3b)
 ![at-trip](https://github.com/user-attachments/assets/72e1c20c-c64c-4071-9687-12f41c5d4f6b)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_95u35d95u35d95u3" src="https://github.com/user-attachments/assets/bb9f30ee-12de-45cb-84fd-bea7206c01f7" />
 
 ### Setup
 
